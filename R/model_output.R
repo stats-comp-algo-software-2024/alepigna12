@@ -12,5 +12,5 @@ vcov.hglm <- function (hglm) {
 }
 #'  @export
 logistic_output.hglm <- function(hglm) {
-  print("Output of hiper_glm()")
+  print("Output of hyper_glm()")
 }

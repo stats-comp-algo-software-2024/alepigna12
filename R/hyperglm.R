@@ -1,5 +1,5 @@
 #'  @export
-hiper_glm <- function (outcome, design) {
+hyper_glm <- function (outcome, design) {
   #TODO: Maximize likelihood
   hglm <- list()
   class(hglm) <- "hglm"
