@@ -1,16 +1,16 @@
-#’ @export
+#'  @export
 predict.hglm <- function(hglm) {
   #Implement prediction
 }
-#’ @export
+#'  @export
 coef.hglm <- function (hglm) {
   #Return coefficients
 }
-#’ @export
+#'  @export
 vcov.hglm <- function (hglm) {
   #Return var-covar matrix
 }
-#’ @export
+#'  @export
 logistic_output.hglm <- function(hglm) {
   print("Output of hiper_glm()")
 }

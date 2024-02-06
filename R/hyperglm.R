@@ -1,4 +1,4 @@
-#’ @export
+#'  @export
 hiper_glm <- function (outcome, design) {
   #TODO: Maximize likelihood
   hglm <- list()
