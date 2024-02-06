@@ -1,6 +1,6 @@
 Package: hyperglm
 Title: Implementation of GLM
-Version: 1
+Version: 0.0.0.9000
 Authors@R: 
     person("Alessio", "Pignatelli", , "apignat1@jh.edu", role = c("aut", "cre"))
 Description: The package implements GLM modelling and enables predictions
