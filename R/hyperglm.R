@@ -5,5 +5,3 @@ hyper_glm <- function (outcome, design) {
   class(hglm) <- "hglm"
   return(hglm)
 }
-
-class (hglm) = "hglm"
