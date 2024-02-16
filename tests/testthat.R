@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(hyperglm)
+library(hiperglm)
 
-test_check("hyperglm")
+test_check("hiperglm")
